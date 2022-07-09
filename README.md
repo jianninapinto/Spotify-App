@@ -30,7 +30,7 @@ We'll be using these two values in order to query the Spotify API for data. Leav
 
 ### 2. Clone this repository to your machine. 
 
-If you're unsure of how to do this, your instructor will demonstrate this step at the beginning of the Code Along, but if you're already comfortable doing this go ahead and get it out of the way. 
+If you're unsure of how to do this, your instructor will demonstrate this step at the beginning of the Code-Along, but if you're already comfortable doing this go ahead and get it out of the way. 
 
 Please note that repository is intentionally blank (except for the README.md file). We will be adding more files and folders to this repository during the Code-Along. 
 
