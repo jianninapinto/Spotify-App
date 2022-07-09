@@ -11,8 +11,6 @@ Setup instructions for all of these tools can be found in the [Unit 3 Setup Inst
 
 ## Set Up
 
-#### STEP 3 - Get API Keys
-
 [Log in or sign up for a Spotify Developer Account.](https://developer.spotify.com/dashboard/)
 
 On the Dashboard select "Create An App"
