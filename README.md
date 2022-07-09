@@ -7,7 +7,7 @@
 - Pipenv (for Virtual Environments)
 - Command Line Application (Terminal - MacOS, Git Bash - Windows)
 
-Setup instructions for all of these tools can be found in the [Unit 3 Setup instructions document](https://github.com/bloominstituteoftechnology/DS-Unit-3-Setup) and **must** be completed before participating in this Code Along. You should have already completed this step before following along with the first two guided projects. If you haven't, do it now!
+Setup instructions for all of these tools can be found in the [Unit 3 Setup Instructions](https://github.com/bloominstituteoftechnology/DS-Unit-3-Setup) and **must** be completed before participating in this Code Along. You should have already completed this step before following along with the first two guided projects. If you haven't, do it now!
 
 ## Set Up
 
